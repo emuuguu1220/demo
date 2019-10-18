@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="867be2b7-55cd-494e-8986-c47524fc3874" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Rest/Server/src/main/java/edu/mum/cs/cs425/demo/elibraryrestapi/controller/BookRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rest/Server/src/main/java/edu/mum/cs/cs425/demo/elibraryrestapi/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rest/Server/src/main/java/edu/mum/cs/cs425/demo/elibraryrestapi/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rest/Server/src/main/java/edu/mum/cs/cs425/demo/elibraryrestapi/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rest/Server/src/main/java/edu/mum/cs/cs425/demo/elibraryrestapi/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Restful/elibrary-spring-rest-js-client-web/server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Restful/elibrary-spring-rest-js-client-web/server/.idea/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson16-Agile.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thymeleaf/thymeleafexamples-layouts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/HomePageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/Srm4gdmApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/SupplierController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/model/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/model/validators/UniqueProductNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/model/validators/UniqueProductNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/repository/ISupplierRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/service/ISupplierService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/service/impl/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/service/impl/SupplierService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/static/css/master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/static/images/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/static/images/panoramic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/static/images/topicals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/templates/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/templates/product/browse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/templates/product/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/templates/supplier/browse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/main/resources/templates/supplier/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo (copy)/src/test/java/edu/mum/cs/cs425/finalexampractice/demo/Srm4gdmApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/Srm4gdmApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/controller/viewctrl/HomePageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/controller/viewctrl/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/controller/viewctrl/SupplierController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/model/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/model/validators/UniqueProductNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/model/validators/UniqueProductNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/repository/ISupplierRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/service/ISupplierService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/service/impl/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/edu/mum/cs/cs425/finalexampractice/demo/service/impl/SupplierService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/static/css/home/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/static/css/layouts/master-page-layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/static/css/master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/static/css/product/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/static/css/supplier/supplier.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/public/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/public/layouts/master-page-layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/secured/layouts/master-page-layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/secured/product/browse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/secured/product/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/secured/supplier/browse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/secured/supplier/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/test/java/edu/mum/cs/cs425/finalexampractice/demo/Srm4gdmApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labs/elibrary-democrud-web-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labs/elibrary-democrud-web-with-springunittesting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/srmwebapp/srmwebapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/MyStudentMgmtApp/src/main/java/edu/mum/cs/cs425/studentmgmt/MyStudentMgmtApp/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/MyStudentMgmtApp/src/main/java/edu/mum/cs/cs425/studentmgmt/MyStudentMgmtApp/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/MyStudentMgmtApp/src/main/java/edu/mum/cs/cs425/studentmgmt/MyStudentMgmtApp/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/MyStudentMgmtApp/src/main/java/edu/mum/cs/cs425/studentmgmt/MyStudentMgmtApp/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/lab-seven/src/main/java/mum/edu/cs/cs425/labseven/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/controller/ClassroomController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/controller/TranscriptController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/model/Classroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/model/Transcript.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/repository/ClassroomRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/standardProject/studentmgmt/src/main/java/edu/mum/cs/cs425/studentmgmt/studentmgmt/repository/TranscriptRepository.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SDrQiAaj4vtE0ksNvOzUMAiGQv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/java/edu/mum/cs/cs425/lab8/eregistrar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EregistrarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lab8" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.mum.cs.cs425.lab8.eregistrar.EregistrarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="867be2b7-55cd-494e-8986-c47524fc3874" name="Default Changelist" comment="" />
+      <created>1571108993009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571108993009</updated>
+      <workItem from="1571108995721" duration="12106000" />
+      <workItem from="1571153069114" duration="16000" />
+      <workItem from="1571166830557" duration="19035000" />
+      <workItem from="1571239313326" duration="10445000" />
+      <workItem from="1571283437358" duration="6598000" />
+      <workItem from="1571356507209" duration="2219000" />
+      <workItem from="1571360295765" duration="77000" />
+      <workItem from="1571412071760" duration="880000" />
+      <workItem from="1571421803709" duration="442000" />
+      <workItem from="1571422387381" duration="1114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/mb/Desktop/SWE/lab8" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
